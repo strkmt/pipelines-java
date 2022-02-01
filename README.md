@@ -1,3 +1,4 @@
+![azure-pipelines-succeeded](https://user-images.githubusercontent.com/69588691/151960880-1b24f103-e397-4426-a7c7-912ad6049709.png)
 
 # Contributing
 
